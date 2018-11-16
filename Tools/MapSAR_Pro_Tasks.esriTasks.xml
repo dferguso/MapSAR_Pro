@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20180504</CreaDate>
+    <CreaTime>14342600</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>TRUE</SyncOnce>
+  </Esri>
+  <dataIdInfo>
+    <idCitation>
+      <resTitle>MapSAR-Pro Tools</resTitle>
+    </idCitation>
+    <idAbs></idAbs>
+    <idPurp>Collection of tools for managing search and rescue incidents.</idPurp>
+    <searchKeys>
+      <keyword>MapSAR-Pro</keyword>
+      <keyword>MapSAR</keyword>
+      <keyword>IGT4SAR</keyword>
+    </searchKeys>
+  </dataIdInfo>
+</metadata>
